@@ -1,0 +1,4 @@
+Publication.cpp: In member function ‘virtual std::ostream& sdds::Publication::write(std::ostream&) const’:
+Publication.cpp:108:23: warning: suggest parentheses around comparison in operand of ‘!=’ [-Wparentheses]
+         for (i = 0; i < m_title[i] != '\0'; i++) {
+                       ^
