@@ -1,8 +1,8 @@
-# C Library Console Application
+# C++ Library Console Application
 
 ## Overview
 
-This C Library Console Application is a project developed as part of the Seneca College Library Application. It encompasses key features such as date management, menu creation, and data handling. This README provides an overview of the project, its functionalities, and instructions on how to set it up and use it.
+This C++ Library Console Application is a project developed as part of the Seneca College Library Application. It encompasses key features such as date management, menu creation, and data handling. This README provides an overview of the project, its functionalities, and instructions on how to set it up and use it.
 
 ## Features
 
